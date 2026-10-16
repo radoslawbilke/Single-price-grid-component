@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Single-price-grid-component/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Single-price-grid-component/)
 
 ## My process
 
